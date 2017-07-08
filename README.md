@@ -17,7 +17,7 @@ Changing or navigating back to parent directory.
 
 List all the contents of current directory.
 
-```$ ls -la```
+```$ ls -a```
 
 
 List detailed directory contents, including hidden files.
@@ -75,5 +75,11 @@ Copy `<directory1>` and its contents to `<directory2>` possibly overwrititng fil
 
 Delete or Remove `<file>` from current directory.
 
+## Shortcuts
 
+---|---
+Key/Command | Description
+Tab | Auto-complete files and folder names
+Ctrl + A | Go to the beginning of the line you are currently typing on
+Crtl + E | Go to the end of the line you are currently typing on
 
