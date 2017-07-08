@@ -46,7 +46,7 @@ Copy <file> to <directory> possibly overwrititng an existing file.
 Copy <directory1> and its contents to <directory2> possibly overwrititng files in an existing directory.
 
 ```$ rm <file>```
-Delete or Remove <file>.
+Delete or Remove <file> from current directory.
 
 
 
