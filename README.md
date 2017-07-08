@@ -6,7 +6,7 @@
 ``` $ cd <directory>```
 
 
-Change directory to `<directory>`.
+Change directory to *<directory>*.
 
 ```$ cd ..```
 
