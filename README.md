@@ -77,8 +77,8 @@ Delete or Remove `<file>` from current directory.
 
 ## Shortcuts
 
----|---
 Key/Command | Description
+---|---
 Tab | Auto-complete files and folder names
 Ctrl + A | Go to the beginning of the line you are currently typing on
 Crtl + E | Go to the end of the line you are currently typing on
