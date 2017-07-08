@@ -1,12 +1,11 @@
 # Command Line Cheat Sheet
-#
-#
+
 ## Directories
 
 ``` $ cd <directory>```
 
 
-Change directory to *<directory>*.
+Change directory to `<directory>`.
 
 ```$ cd ..```
 
