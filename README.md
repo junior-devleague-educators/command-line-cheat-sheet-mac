@@ -91,4 +91,4 @@ Ctrl + R | Lets you search through previously used commands
 Ctrl + L or Command + K or Typing the word 'Clear' | Clears the screen
 Ctrl + C | Kill whatever you are running
 Ctrl + D | Exit the current shell
-
+up arrow | Last command ran
